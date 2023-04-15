@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently working at [Hyperconnect](https://hyperconnect.com/ko/), as a Data Scientist. Prior to this role I worked as Machine Learning Engineer and Machine Learning Software Engineer at the same company.
+- I'm currently working at [Hyperconnect](https://hyperconnect.com/ko/) as a Data Scientist. Prior to this role I worked as Machine Learning Engineer and Machine Learning Software Engineer at the same company.
 
 <!--
 - Some writings:
